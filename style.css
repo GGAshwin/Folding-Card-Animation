@@ -28,7 +28,7 @@ body{
     background: dodgerblue;
     transform-style: preserve-3d;
     transform-origin:left;
-    transition: transform 1s;
+    transition: transform 1.4s;
     border-radius: 0px 10px 10px 0px;
     font-size: 30px;
     font-weight: bold;
@@ -68,4 +68,5 @@ body{
    padding: 10px 20px;
    color: #fff;
    margin-top: 10px;
+   cursor: pointer;
 }
